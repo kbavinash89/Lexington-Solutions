@@ -8,7 +8,15 @@ import org.junit.Assert;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TemporaryFolder;
-
+/**
+ * This class does unit testing
+ * Creates a temporary folder and file and
+ * generates output to this file and compares 
+ * and compares it with existing file
+ * 
+ * @author Avinash
+ *
+ */
 public class PublicTest {
 	
 	@Rule
